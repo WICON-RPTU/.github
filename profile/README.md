@@ -1,0 +1,1 @@
+The Wireless Communications and Radio Positioning ([WiCON](https://eit.rptu.de/en/fgs/wicon)) division at the Department of Electrical Engineering and Information Technology within [RPTU](https://rptu.de/) focuses on research in 5G/6G and LTE technologies for industry and transportation. You can find the code used for applications related to the aforementioned technologies here.
